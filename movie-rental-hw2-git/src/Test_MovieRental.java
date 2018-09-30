@@ -6,7 +6,7 @@ public class Test_MovieRental {
 		
 		
 				Movie m1=new Movie("Incredibles",2);
-				Movie m2=new Movie("Titanic",0);
+				Movie m2=new Movie("Blind Side",0);
 				Movie m3=new Movie("MI3",1);
 				
 				Rental r1=new Rental(m1,10);
