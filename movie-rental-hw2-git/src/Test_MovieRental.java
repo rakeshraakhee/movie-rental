@@ -21,7 +21,7 @@ public class Test_MovieRental {
 				c1.addRental(r2);
 				c1.addRental(r3);
 				
-				String s=c1.statement();
+				String s=c1.xmlStatement();
 				System.out.println(s);
 				
 				
